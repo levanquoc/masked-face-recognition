@@ -41,4 +41,4 @@ $ python3 main.py
 ```
 ## Result
 
-![Alt](images/CAPTURE.PNG)
+<img src="images/CAPTURE.PNG">
