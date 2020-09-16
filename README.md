@@ -41,4 +41,4 @@ $ python3 main.py
 ```
 ## Result
 
-![Imgru](images/CAPTURE.PNG)
+![Alt](images/CAPTURE.PNG)
