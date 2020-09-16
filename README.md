@@ -9,4 +9,4 @@ the negative (falsy) input is maximized.For more details, you can refer to this 
 
 ### Architecture
 
-<img src="https://imgur.com/a/Erv21uz">
+<img src="https://imgur.com/5iYO573">
