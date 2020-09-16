@@ -35,4 +35,9 @@ $ python3 getdata_from_webcam.py
 $ cd ..
 $ python3 encodings.py
 ```
-*Fidn
+* Finally,you run main.py to check result
+``` bash
+$ python3 main.py
+```
+
+
