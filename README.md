@@ -9,3 +9,5 @@ the negative (falsy) input is maximized.For more details, you can refer to this 
 
 ### Architecture
 ![alt](https://i.imgur.com/RaMpNCm.png)
+### OpenCV Deep Neural Networks (dnn module)
+OpenCV dnn module supports running inference on pre-trained deep learning models from popular frameworks such as TensorFlow, Torch, Darknet and Caffe.
