@@ -39,5 +39,6 @@ $ python3 encodings.py
 ``` bash
 $ python3 main.py
 ```
+## Result
 
-
+![Imgru](images/Capture.png)
