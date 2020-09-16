@@ -1,3 +1,3 @@
-#MASKED FACE RECOGNITION
+# MASKED FACE RECOGNITION
 ## Deep Learning Based Masked Face Recognition Using Triplet Loss 
-###Getting started
+### Getting started
