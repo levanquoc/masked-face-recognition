@@ -25,6 +25,7 @@ $ git clone https://github.com/levanquoc/masked-face-recognition.git
 ```
 * Next,you can get data from webcam by:
 ```bash
+$ cd masked-face-recogniton
 $ cd getdata
 $ python3 getdata_from_webcam.py
 ```
