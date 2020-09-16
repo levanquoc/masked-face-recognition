@@ -8,5 +8,4 @@ the positive (truthy) input is minimized, and the distance from the baseline (an
 the negative (falsy) input is maximized.For more details, you can refer to this [paper](https://arxiv.org/pdf/1503.03832.pdf)
 
 ### Architecture
-
-<img src="images/quoc.png">
+![alt](https://i.imgur.com/RaMpNCm.png)
