@@ -7,4 +7,6 @@ to a positive (truthy) input and a negative (falsy) input. The distance from the
 the positive (truthy) input is minimized, and the distance from the baseline (anchor) input to 
 the negative (falsy) input is maximized.For more details, you can refer to this [paper](https://arxiv.org/pdf/1503.03832.pdf)
 
-[paper](https://arxiv.org/pdf/1503.03832.pdf)
+### Architecture
+
+<img src="https://imgur.com/a/Erv21uz">
