@@ -1,1 +1,1 @@
-# Deep Learning Based Masked Face Recognition using Triplet Loss 
+# Deep Learning Based Masked Face Recognition Using Triplet Loss 
