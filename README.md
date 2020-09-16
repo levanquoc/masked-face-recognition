@@ -41,4 +41,4 @@ $ python3 main.py
 ```
 ## Result
 
-<img src="images/CAPTURE.PNG">
+<img src="images/Capture.PNG">
