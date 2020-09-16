@@ -23,3 +23,8 @@ OpenCV dnn module supports running inference on pre-trained deep learning models
 ```bash
 $ git clone https://github.com/levanquoc/masked-face-recognition.git
 ```
+Next,you can get data from webcam by:
+```bash
+$ cd getdata
+$ python3 getdata_from_webcam.py
+```
