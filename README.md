@@ -28,3 +28,5 @@ Next,you can get data from webcam by:
 $ cd getdata
 $ python3 getdata_from_webcam.py
 ```
+
+Next,you save data from getdata folder to dataset folder 
