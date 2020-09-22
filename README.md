@@ -5,7 +5,7 @@
 Triplet loss is a loss function for machine learning algorithms where a baseline (anchor) input is compare 
 to a positive (truthy) input and a negative (falsy) input. The distance from the baseline (anchor) input to 
 the positive (truthy) input is minimized, and the distance from the baseline (anchor) input to 
-the negative (falsy) input is maximized.For more details, you can refer to this [paper](https://arxiv.org/pdf/1503.03832.pdf)
+the negative (falsy) input is maximized.For more details, you can refer to this [paper](https://arxiv.org/pdf/1503.03832.pdf).
 
 ## Architecture
 ![alt](https://i.imgur.com/RaMpNCm.png)
@@ -30,13 +30,13 @@ $ cd getdata
 $ python3 getdata_from_webcam.py
 ```
 
-* Next,you save data from getdata folder to dataset folder 
-* You run encodings.py to perform face encodings
+* Next,you save data from getdata folder to dataset folder. 
+* You run encodings.py to perform face encodings.
 ```bash
 $ cd ..
 $ python3 encodings.py
 ```
-* Finally,you run main.py to check result
+* Finally,you run main.py to check result.
 ``` bash
 $ python3 main.py
 ```
