@@ -19,7 +19,7 @@ OpenCV dnn module supports running inference on pre-trained deep learning models
 * Matplotlib
 * Face_recognition
 ## Usage
-* Clone this repository
+* Clone this repository.
 ```bash
 $ git clone https://github.com/levanquoc/masked-face-recognition.git
 ```
